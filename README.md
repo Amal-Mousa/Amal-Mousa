@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amal-Mousa&layout=compact&theme=react&hide_border=true" alt="Top Languages" width= "450"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amal-Mousa&layout=compact&theme=react&hide_border=true" alt="Top Languages" width= "500"/>
 </p>
 
 
